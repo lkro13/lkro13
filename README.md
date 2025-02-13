@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+When through some profile changes and stuff might as well add a readme for future use
+
+for now i have no major plans for it
+
+You can visit my older projects in the pinned repo below
+
+bye and have fun! ヾ(≧▽≦*)o
+
 <!--
 **lkro13/lkro13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
